@@ -1,0 +1,52 @@
+job_role_id,job_role_name,department_id
+1,HR Manager,1
+2,HR Coordinator,1
+3,Talent Acquisition Specialist,1
+4,Learning & Development Manager,1
+5,HR Analyst,1
+6,Software Engineer/Developer,2
+7,Web Developer,2
+8,Data Scientist,2
+9,DevOps Engineer,2
+10,Data Engineer,2
+11,QA/Test Engineer,2
+12,Machine Learning Engineer,2
+13,Sales Executive/Representative,3
+14,Account Manager,3
+15,Business Development Manager,3
+16,Sales Operations Analyst,3
+17,Regional Sales Manager,3
+18,Inside Sales Coordinator,3
+19,Marketing Manager,4
+20,Content Strategist/Copywriter,4
+21,Digital Marketing Specialist,4
+22,SEO/SEM Analyst,4
+23,Social Media Manager,4
+24,Brand Manager,4
+25,Marketing Analyst,4
+26,Accountant,5
+27,Financial Analyst,5
+28,Controller,5
+29,Auditor,5
+30,Budget Analyst,5
+31,Payroll Manager,5
+32,Tax Specialist,5
+33,Legal Counsel / Corporate Lawyer,6
+34,Paralegal,6
+35,Compliance Officer,6
+36,Contract Manager,6
+37,Intellectual Property Specialist,6
+38,Legal Operations Manager,6
+39,Risk Analyst,6
+40,IT Support Specialist / Technician,7
+41,Help Desk Analyst,7
+42,System Administrator,7
+43,Network Administrator,7
+44,IT Security Analyst,7
+45,Desktop Support Engineer,7
+46,Operations Manager,8
+47,Operations/Logistics Coordinator,8
+48,Supply Chain Analyst,8
+49,Warehouse Manager,8
+50,Business Operations Analyst,8
+51,Inventory Manager,8
