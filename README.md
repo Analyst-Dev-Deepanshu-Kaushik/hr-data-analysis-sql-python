@@ -19,5 +19,5 @@ End-to-end HR Analytics project using **Python**, **MySQL**, and **Plotly** — 
 
 ---
 
-📊 This project reflects my hybrid expertise in **data analytics**, **data generation & engineering** and **business storytelling**.  
+📊 This project reflects my hybrid expertise in **Data Analytics**, **Data Generation & Engineering** and **Business Storytelling**.  
 Feel free to explore the code, insights, and visualizations!
